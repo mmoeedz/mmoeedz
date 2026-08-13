@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=MUHAMMAD%20MOEED%20ZAHID&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Data+Science;RAG+%2B+NLP+Enthusiast;AI+Automation;Open+Source+Contributor;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Data+Science+Student+%40+PUCIT;RAG+%26+NLP+Enthusiast;Python+%2B+OOP+%2B+Automation;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p>
 <img src="https://img.shields.io/badge/BS_Data_Science-PUCIT_%7C_2027-6C63FF?style=for-the-badge"/>
